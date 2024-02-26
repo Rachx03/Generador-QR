@@ -1,0 +1,26 @@
+
+P
+java:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïáüÿÿÿÿ
+C
+java:S1604."(Make this anonymous inner class a lambda(ç¾òŞûÿÿÿÿ
+D
+java:S1604¢"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+o	java:S116ª"TRename this field "CajaTexto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—€îúÿÿÿÿÿ
+h	java:S116«"RRename this field "Generar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Éç
+k	java:S116¬"PRename this field "Label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚùÃÆşÿÿÿÿ
+m
+java:S1450«"VRemove the "Generar" field and declare it as a local variable in the relevant methods.(®Éç
+h	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¿Ô³şÿÿÿÿ
+E
+java:S1172S"*Remove this unused method parameter "evt".(Ù¿Ô³şÿÿÿÿ
+<
+java:S1075f"&Remove this hard-coded path-delimiter.(ÆüÆš
+F
+java:S1197‰"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147˜"ECombine this catch with the one at line 150, which has the same body.(¨¦Š½
+\
+java:S2147š"ECombine this catch with the one at line 152, which has the same body.(ã€ 
+[
+java:S2147œ"ECombine this catch with the one at line 154, which has the same body.(ñÎ¯%

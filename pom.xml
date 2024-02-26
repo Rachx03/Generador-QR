@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project> xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.mycompany</groupId>
+    <artifactId>Generador_de_QR</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>20</maven.compiler.source>
+        <maven.compiler.target>20</maven.compiler.target>
+        <exec.mainClass>com.mycompany.generador_de_qr.Generador_de_QR</exec.mainClass>
+    </properties>
+    <dependencies>
+
+        <dependency>
+        <groupId>com.google.zxing</groupId>
+        <artifactId>core</artifactId>
+        <version>3.5.2</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>5.3.2</version>
+    <scope>test</scope>
+</dependency>
+</dependencies>
+    <!-- https://mvnrepository.com/artifact/cn.yipianfengye.android/zxing-library -->
+<!-- https://mvnrepository.com/artifact/com.google.zxing/core -->
+
+
+</project>
